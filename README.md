@@ -71,3 +71,10 @@ HTML, CSS, JS, JSP를 사용하여 쇼핑몰웹페이지 제작
 <br>-제품수정(첨부파일 기존 값 유지)
 <br>-제품삭제
 <br>-게시글등록
+
+<br>
+## 상세정보
+Tool: Eclipse
+language: jsp, JavaScript
+기타: HTML, CSS
+서버/DB: Tomcat / Mysql
