@@ -74,7 +74,7 @@ HTML, CSS, JS, JSP를 사용하여 쇼핑몰웹페이지 제작
 
 <br>
 ## 상세정보
-Tool: Eclipse
-language: jsp, JavaScript
-기타: HTML, CSS
-서버/DB: Tomcat / Mysql
++ Tool: Eclipse
++ language: jsp, JavaScript
++ 기타: HTML, CSS
++ 서버/DB: Tomcat / Mysql
