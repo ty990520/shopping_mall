@@ -1,0 +1,172 @@
+@charset "utf-8";
+body{
+   text-decoration:none;
+   font-size:16px;
+   
+}
+#wrap{
+   width:1700px;
+   height:auto;
+   margin-left:auto;
+   margin-right:auto;
+}#header {
+   height: 124px;
+   width: 100%;
+   background-image:url(images/head.png);
+}
+#home{
+   width:200px;
+   height:100px;
+   margin-left:auto;
+   margin-right:auto;
+   margin-top:20px;
+}
+#center {
+   height: auto;
+   width: 100%;
+   padding-bottom:50px;
+   float:left;
+   clear:both;
+}
+
+
+#footer {
+   clear: both;
+   height:120px;
+   width: 100%;
+   padding-top: 10px;
+   padding-bottom:10px;
+   text-align:center;
+   font-size:10pt;
+   color:#999;
+   background-color:#ECECEC;
+   border: solid 3px #ECECEC;
+}
+#wrap #header #MenuBar1 >li {
+   background-image:url(images/menu.png);
+   height: 60px;
+   width: 60px;
+   margin-top: 30px;
+   margin-left: 50px;
+   color: #999;
+}
+
+#wrap #header #MenuBar1 li ul {
+   background-color: rgba(255,255,255,0.5);
+   height: 295px;
+   width: 150px;
+}
+#wrap #header #MenuBar1 li ul li {
+	background-color:none;
+   text-align: center;
+   color: #CCC;
+   margin-right: auto;
+   margin-left: auto;
+   width: 150px;
+}
+#wrap #header #MenuBar1 li ul li a {
+	background-color: rgba(255,255,255,0.8);
+   margin-right: auto;
+   margin-left: auto;
+}
+#wrap #header #MenuBar1 li ul li a:hover {
+   margin-right: auto;
+   margin-left: auto;
+   background-color: rgb(238,238,238);
+}
+#wrap #header #MenuBar1 li ul #customent_center a{
+   background-color:rgba(112,112,112,0.5);
+   color:#fff;
+   height:auto;
+}
+#wrap #header #MenuBar1 li ul #customent_center a:hover{
+	background-color:#CCC;
+   color:#666;
+}
+#wrap #header #login {
+   height: 40px;
+   width: 320px;
+   float: right;
+   margin-top: 10px;
+   margin-right: 50px;
+   color: #999;
+   position: relative;
+   bottom:110px;
+   z-index:5;
+}
+#login input {
+   background-color: #FFF;
+   float: right;
+   width: 100px;
+   height: 40px;
+   border: 2px solid #CCC;
+   text-align: center;
+   font-size: 16px;
+   color:#999;
+   margin-left:10px;
+   
+}
+#login input:focus,#login input:hover{
+   background-color:#F6F6F6;
+   color:#000;
+   outline: 1px solid #CCC;
+}
+.button_style2 {
+   background-color:#38CDB4;
+   width: 220px;
+   height: 40px;
+   border: 2px solid #38CDB4;
+   text-align: center;
+   font-size: 16px;
+   color:#fff;
+   font-weight:bold;
+}
+.button_style2:hover, .button_style2:focus{
+   background-color:#099;
+   border: 2px solid #099;
+   color:#fff;
+}
+.button_style{
+   background-color:#fff;
+   width: 220px;
+   height: 40px;
+   border: 2px solid #ccc;
+   text-align: center;
+   font-size: 16px;
+   color:#999;
+   font-weight:bold;
+}
+.button_style:hover, .button_style:focus{
+   background-color:#ccc;
+   border: 2px solid #ccc;
+   color:#fff;
+}
+#top_message {
+   font-size: 24px;
+   font-weight: 5px;
+   color:#666;
+   text-align: center;
+   position:relative;
+}
+#gocart{
+	width: 40px;
+	height: 40px;
+	float:right;
+	position:relative;
+	bottom:2px;
+	right:2px;
+	margin-left:5px;
+}
+#wrap #header #login #coinbox{
+	width:200px;
+	height:40px;
+	text-align:center;
+	position:relative;
+	right:180px;
+	bottom:30px;
+}
+
+#wrap #header #login #coinbox span{
+	color:#38CDB4;
+	font-weight:bold;
+}

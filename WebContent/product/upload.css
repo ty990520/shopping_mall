@@ -1,0 +1,143 @@
+@charset "utf-8";
+@charset "utf-8";
+.productmain {
+	background-color: #FFF;
+	height: 400px;
+	width: 500px;
+	margin-top: 70px;
+	margin-left: 100px;
+	clear: both;
+	float: left;
+	border: 3px solid #ccc;
+	border-radius: 5px;
+}
+
+.inputfield{
+	height: 25px;
+	width: 200px;
+}
+
+
+
+
+#detail1 {
+	padding-top: 10px;
+	padding-bottom:10px;
+	background-color: #FFF;
+	border-top: 3px solid #ccc;
+	border-bottom: 3px solid #ccc;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+#detail1 .detail_table {
+	width: 530px;
+	
+}
+#detail2 {
+	padding-top: 10px;
+	padding-bottom:10px;
+	background-color: #FFF;
+	width: 800px;
+	margin-bottom: 20px;
+	border: 3px solid #ccc;
+	border-radius: 5px;
+}
+#detail2 .detail_table {
+	width: 530px;
+}
+
+#detail3 {
+	padding-top: 10px;
+	padding-bottom:10px;
+	background-color: #FFF;
+	width: 800px;
+	margin-bottom: 20px;
+	border: 3px solid #ccc;
+	border-radius: 5px;
+}
+#detail3 .detail_table {
+	width: 530px;
+}
+
+#detail4 {
+	padding-top: 10px;
+	padding-bottom:10px;
+	width: 450px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+#detail4 .option {
+	border: 3px solid #ccc;
+	border-radius: 5px;
+	width:130px;
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+	background-color: #FFF;
+	
+}
+#detail4 .option:hover {
+	border: 3px solid #9C3;
+	color: #fff;
+	background-color: #9C3;
+}
+
+
+#detail4 a #buy {
+	border: 3px solid #ccc;
+	border-radius: 5px;
+	width: 130px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #ccc;
+	color: #fff;
+	font-weight: bold;	
+}
+#detail4 a #buy:hover {
+	border: 3px solid #693;
+	color: #fff;
+	background-color: #693;
+}
+
+.detail_info {
+	width:1000px;
+	height: 2000px;
+	background-color:#fff;
+	clear:both;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 520px;
+	border: 3px solid #ccc;
+	border-radius: 5px;
+}
+
+.recommand{
+	width:1000px;
+	height: 300px;
+	background-color:#fff;
+	clear:both;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 50px;
+	border: 3px solid #ccc;
+	border-radius: 5px;
+}
+
+
+.rightmain {
+	height: auto;
+	width: 550px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	clear: both;
+	float: none;
+}
+#top_message {
+	font-size: 24px;
+	font-weight: 5px;
+	color:#666;
+	text-align: center;
+}

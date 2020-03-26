@@ -1,0 +1,109 @@
+@charset "utf-8";
+#login #login_inner {
+   height: 350px;
+   width: 400px;
+   border: 2px solid #CCC;
+   display:none;
+   position:relative;
+   right:80px;
+   top:40px;
+   background-color:#fff;
+}
+#login #login_inner #registerform {
+   width: 300px;
+   margin-right: auto;
+   margin-left: auto;
+   margin-top: 10px;
+}
+#login #login_inner #buttonbox {
+   width: 320px;
+   margin-right: auto;
+   margin-left: auto;
+   margin-top: 20px;
+   margin-bottom: 0px;
+   height: 50px;
+}
+#login #login_inner #buttonbox2 {
+   width: 150px;
+   margin-right: auto;
+   margin-left: auto;
+   margin-top: 10px;
+   height: 50px;
+}
+
+
+#login_inner #buttonbox .button_style2 {
+   width: 150px;
+   background-color:#38CDB4;
+   height: 40px;
+   border: 2px solid #38CDB4;
+   text-align: center;
+   font-size: 16px;
+   color:#fff;
+   font-weight:bold;
+   outline: none;
+}
+
+#login_inner #buttonbox .button_style2:hover, #login_inner #buttonbox .button_style2:focus{
+   background-color:#099;
+   border: 2px solid #099;
+   color:#fff;
+}
+#login_inner #buttonbox .button_style{
+   width: 150px;
+}
+#login_inner #buttonbox .button_style:hover, #login_inner #buttonbox .button_style:focus{
+   background-color:#ccc;
+   color:#fff;
+   outline: none;
+}
+#login_inner #buttonbox2 .button_style3 {
+   width: 150px;
+   background-color:#E1E1E1;
+   height: 40px;
+   border: 2px solid #CCC;
+   text-align: center;
+   font-size: 16px;
+   color:#999;
+   font-weight:bold;
+   outline: none;
+}
+#login_inner #buttonbox2 .button_style3:hover, #login_inner #buttonbox2 .button_style3:focus{
+   background-color:#ccc;
+   color:#666;
+   outline: none;
+}
+#login #login_inner #border {
+   margin-top: 25px;
+   margin-right: auto;
+   margin-left: auto;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border-top-width: 1px;
+   border-bottom-width: 1px;
+   border-top-style: solid;
+   border-bottom-style: solid;
+   border-top-color: #CCC;
+   border-bottom-color: #CCC;
+}
+
+#login #login_inner #border #registerform tr td {
+   padding-top: 15px;
+}
+#login_inner #border #registerform tr th {
+   padding-top: 15px;
+   border-bottom: 2px solid #ccc;
+}
+
+
+
+
+#login_inner #buttonbox2 .button_style {
+   width: 150px;
+}
+#registerform tr td input{
+   width: 200px;
+}
+#login_inner #buttonbox2 .button_style3 {
+   width: 150px;
+}

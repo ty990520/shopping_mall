@@ -1,0 +1,108 @@
+@charset "utf-8";
+#wrap #center .modul {
+	height: 400px;
+	width: 400px;
+	margin: 30px;
+	border: solid 1px #ccc;
+	float:left;
+}
+
+#wrap #center .modul:hover{
+	box-shadow: 1px 1px 20px #ddd;
+}
+.modul .modul_top {
+	height: 130px;
+	width: 100%;
+}
+
+.modul .modul_top .product_name {
+	height: 40px;
+	width: 370px;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:30px;
+	font-size:30px;
+	font-weight:bold;
+}
+.modul .modul_top .maker {
+	height: 30px;
+	width: 370px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:30px;
+}
+.search_product form select {
+}
+.search_product form select {
+	height: 30px;
+	width: 130px;
+	padding-top: 3px;
+	padding-right: 10px;
+	padding-bottom: 3px;
+	padding-left: 10px;
+}
+
+.search_product form .keyWord {
+	height: 25px;
+	width: 250px;
+
+}
+
+.modul_wrapper {
+	width: 1400px;
+	padding-top:50px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.modul .modul_body {
+	margin-right:auto;
+	margin-left:auto;
+	height: 250px;
+	width: 93%;
+	border-top:solid 1px #999;
+	padding-top:20px;
+	padding-bottom:20px;
+	
+}
+.search_product form .button_style {
+	background-color: #FFF;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	font-size: 16px;
+	color:#999;
+}
+.search_product {
+	float: right;
+	margin-right: 30px;
+	position:relative;
+	bottom:70px;
+	z-index:1;
+}
+
+
+
+.search_product form .button_style:hover, .search_product form .button_style:focus{
+	background-color:#999;
+	color:#FFF;
+	outline: 1px solid #999;
+}
+
+.orderbylist select {
+    height: 30px;
+    width: 130px;
+    padding-top: 3px;
+    padding-right: 10px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    margin-left:40px;
+    margin-top:10px;
+}
+.detail_table tr td #productImage input {
+	border:solid 1px #ccc;
+	color:#000;
+	background-color:#ccc;	
+}
+}

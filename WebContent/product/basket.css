@@ -1,0 +1,120 @@
+@charset "utf-8";
+
+#center .basket {
+   height: 200px;
+   width: 900px;
+   margin-right: auto;
+   margin-left: auto;
+   border-top-width: 2px;
+   border-bottom-width: 2px;
+   border-top-style: solid;
+   border-bottom-style: solid;
+   border-top-color: #CCC;
+   border-bottom-color: #CCC;
+   margin-top:30px;
+   margin-bottom:20px;
+   padding-left:30px;
+}
+.basket .buttonbox .button1 {
+   width: 200px;
+   margin-right: auto;
+   margin-left: auto;
+   height: 50px;
+   margin-top: 30px;
+   position:relative;
+   z-index:2;
+   
+}
+
+.basket .ppt_image {
+   height: 150px;
+   width: 200px;
+   float: left;
+   border: 2px solid #CCC;
+   margin-top:25px;
+}
+.basket .ppt_name {
+   height: 50px;
+   width: 250px;
+   float: left;
+   margin-top: 25px;
+   margin-left: 30px;
+   font-size: 22px;
+   font-weight: bold;
+}
+.basket .buttonbox {
+   height: 200px;
+   float: right;
+   margin-right: 50px;
+   width: 250px;
+   background-color:#ECECEC;
+}
+.basket .buttonbox .button1 #checkbox{
+   width: 35px;
+   height: 35px;
+   float: right;
+   margin-right: 40px;
+}
+
+.basket .infobox{
+   width:150px;
+   height:100px;
+   float: left;
+   margin-left: 30px;
+   position:relative;
+   top:25px;
+}
+
+.basket .infobox .ppt_info {
+   height: 30px;
+   width: 150px;
+   border-bottom: solid 1px #ccc;
+   margin-top: 5px;
+}
+.basket .check {
+   float: left;
+   height: 20px;
+   width: 70px;
+   margin-right: auto;
+   margin-left: auto;
+   text-align: center;
+   margin-top: 90px;
+}
+.buttonbox .button1  .checkstyle span {
+   text-align: left;
+   line-height: 150%;
+   float: left;
+   margin-left: 50px;
+   margin-top: 8px;
+}
+.basket .buttonbox .button1 .checkstyle {
+   background-color:#fff;
+   width: 200px;
+   height: 40px;
+   border: 2px solid #ccc;
+   text-align: center;
+   font-size: 16px;
+   color:#999;
+   font-weight:bold;
+}
+.purchase_box {
+   width:463px;
+   margin-right: auto;
+   margin-left: auto;
+}
+.round-box {
+   height: 100px;
+   width: 100%;
+   margin-top:50px;
+   padding-top: 40px;
+   border-top-width: 2px;
+   border-bottom-width: 2px;
+   border-top-style: solid;
+   border-bottom-style: solid;
+   border-top-color: #999;
+   border-bottom-color: #999;
+}
+#totalbox{
+	position:fixed;
+	margin-left:100px;
+}
