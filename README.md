@@ -22,11 +22,15 @@ HTML, CSS, JS, JSP를 사용하여 쇼핑몰웹페이지 제작
 
 ## 프로젝트 미리보기
 + 메인화면
+![main](https://user-images.githubusercontent.com/48792230/77659955-10866780-6fbc-11ea-8846-feeabba87c5a.png)
 + 메뉴
+![menu](https://user-images.githubusercontent.com/48792230/77659956-11b79480-6fbc-11ea-84eb-21d343813d06.png)
 + 상세페이지
+![detail](https://user-images.githubusercontent.com/48792230/77659948-0cf2e080-6fbc-11ea-898f-df294981967e.png)
 + 마이페이지
+![mypage](https://user-images.githubusercontent.com/48792230/77659953-0fedd100-6fbc-11ea-91b6-3678129e0392.png)
 + 구매목록
-
+![buylist](https://user-images.githubusercontent.com/48792230/77659951-0f553a80-6fbc-11ea-8c91-43924fe1e38f.png)
 <br>
 
 
