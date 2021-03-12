@@ -1,7 +1,7 @@
 # [웹프로그래밍 - 쇼핑몰만들기] withPPT   
 
 
-HTML, CSS, JS, JSP를 사용하여 쇼핑몰웹페이지 제작
+HTML, CSS, JS, JSP, Java를 사용하여 쇼핑몰웹페이지 제작
 
 <br>
 
@@ -77,7 +77,7 @@ HTML, CSS, JS, JSP를 사용하여 쇼핑몰웹페이지 제작
 
 ## 05. 상세정보
 + Tool: Eclipse
-+ language: jsp, JavaScript
++ language: Java, jsp, JavaScript
 + 기타: HTML, CSS
 + 서버/DB: Tomcat / Mysql
 
